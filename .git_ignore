@@ -3,4 +3,4 @@
 
 #jupyter
 .ipynb_checkpoints/*
-*-checkpoint
+*checkpoint*
