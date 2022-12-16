@@ -1,10 +1,37 @@
-## Week1 : Recap on deep learning and convolutional neural networks
+## Week1 : Intro,  refresher 
+
+Activities:
+download the palmer penguins data set and then compare the performance of:
+ - k-Nearest Neighbours
+ - Decision Tree Classifier
+ - Random Forest
+ - a multi-layer perceptron
+ 
+You will need to think about: data normalisation, handling missing data, how you estimate classifier accuracy, how you select the hyper-parameters for different algorithms
+
+Download the dataset penguins_size from https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data?resource=download&select=penguins_size.csv
+
+This data has 344 records and seven features:
+- Species (use this as the label to be predicted)
+- Island
+- culmen_length_mm
+- culmen_depth_mm
+- flipper_length_mm
+- body_mass_g
+- sex
+
+Use the kaggle page, or the page created by the original authors (resource
+here https://allisonhorst.github.io/palmerpenguins/articles/intro.html - in R)
+to understand what the data is capturing.
+
+
+## Week 2: Convolutional neural networks
 
 ### Keras/ tensorflow
 
 ### Motivation
 - Old fashioned image processing via kernels
-- Convolutional filters offer ways of (i) autoamting kernel choice,  
+- Convolutional filters offer ways of (i) automating kernel choice,  
   (ii) building more complex  features(layers), 
   (iii) generalising over presene of artefacts anywhere in the image
 
@@ -58,7 +85,7 @@ focussing on what is the new idea e.g. modularisation?
  
  ## Week 5: Autoencoders
  
- ## Week 6 large pretraiend language models
+ ## Week 6 large pretrained language models
  
  ## Week 7 Deep reinforcement learning???
  --or have this is the coursework task??
