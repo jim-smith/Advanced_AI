@@ -1,8 +1,0 @@
-full_cohort_data
-aline_flg,icu_los_day,hospital_los_day,age,gender_num,weight_first,bmi,sapsi_first,sofa_first,service_unit,service_num,day_icu_intime,day_icu_intime_num,hour_icu_intime,hosp_exp_flg,icu_exp_flg,day_28_flg,mort_day_censored,censor_flg,sepsis_flg,chf_flg,afib_flg,renal_flg,liver_flg,copd_flg,cad_flg,stroke_flg,mal_flg,resp_flg,map_1st,hr_1st,temp_1st,spo2_1st,abg_count,wbc_first,hgb_first,platelet_first,sodium_first,potassium_first,tco2_first,chloride_first,bun_first,creatinine_first,po2_first,pco2_first,iv_day_1
-1,7.63,13,72.36841,1,75,29.91279129,15,9,SICU,1,Friday   ,6,6,1,0,1,11.92,0,0,0,0,0,0,0,0,0,1,0,92,86,95.90000153,100,22,8.1,14.1,354,138,4.6,15,109,41,1.6,196,39,2230.875
-0,1.14,1,64.92076,0,55,20.12131169,,5,MICU,0,Saturday ,7,17,0,0,0,731,1,0,0,0,0,0,0,0,0,0,0,86.66670227,85,97.59999847,100,1,,,,,,,,,,,,600
-0,2.86,5,36.5,0,70,27.11827188,16,5,MICU,0,Friday   ,6,3,0,0,0,731,1,0,0,0,0,0,0,0,0,0,0,69.66670227,135,96.30000305,99,3,27,13.1,295,144,3.9,17,101,16,0.8,298,30,2086.800293
-1,0.58,3,44.49191,0,,,21,7,SICU,1,Saturday ,7,4,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,101,125,100.0999985,100,4,7.1,12.6,262,139,4.2,31,100,16,0.5,146,23,
-1,1.75,5,23.74217,1,95.2,28.4645631,18,7,SICU,1,Saturday ,7,7,0,0,0,731,1,0,0,0,0,0,0,0,0,0,0,105,107,96.30000305,100,9,4.8,10.7,22,146,3.4,19,110,10,1,134,30,2358.244141
-0,1.38,9,36.54657,1,72,23.98240206,14,5,SICU,1,Sunday   ,1,12,0,0,0,731,1,0,0,0,0,0,0,0,0,0,0,104,90,98.40000153,100,0,12.1,14.4,182,145,3.6,26,110,10,0.7,,,1877.560059
